@@ -1,6 +1,7 @@
 # RVS-Seminarski
 
 Uputstvo:
+
 1.Za pokretanje rada prvo morate otvoriti fajl RESTORAN_baza.sql koji se nalazi u folderu 1_slojpodataka/baza podataka.ovaj fajl ce kreirati novu bazu podataka.
 
 
